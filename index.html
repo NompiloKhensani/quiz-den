@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="favicon.ico" sizes="any" />
+    <link rel="icon" href="favicon.png" type="image/png" sizes="32x32" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Quiz Den</title>
+  </head>
+  <body>
+    <div class="container">
+      <header class="top-bar">
+        <button type="button" id="back-btn" class="back-btn" aria-label="Back" hidden>
+          ←
+        </button>
+        <h1 class="brand">
+          <img class="brand-logo" src="logo.svg" alt="" width="40" height="40" />
+          Quiz <span>Den</span>
+        </h1>
+      </header>
+      <div class="screen active" id="sections-screen">
+        <p>Pick a section and test what you know.</p>
+        <div id="sections-grid" class="sections-grid"></div>
+      </div>
+
+      <div class="screen" id="mode-screen">
+        <p id="mode-heading" class="mode-heading"></p>
+        <p>Choose a difficulty.</p>
+        <div class="mode-picker" role="group" aria-label="Difficulty">
+          <button type="button" class="mode-btn" data-mode="easy">Easy</button>
+          <button type="button" class="mode-btn" data-mode="medium">Medium</button>
+          <button type="button" class="mode-btn" data-mode="hard">Hard</button>
+        </div>
+      </div>
+
+      <div class="screen" id="quiz-screen">
+        <div class="quiz-header">
+          <p id="section-name" class="section-label"></p>
+          <h2 id="question-text">Question goes here</h2>
+          <div class="quiz-info">
+            <p>
+              Question <span id="current-question">1</span> of
+              <span id="total-questions">10</span>
+            </p>
+            <p class="score-chip">Score: <span id="score">0</span></p>
+          </div>
+        </div>
+        <div id="answers-container" class="answers-container"></div>
+        <div class="progress-bar">
+          <div class="progress" id="progress"></div>
+        </div>
+      </div>
+
+      <div class="screen" id="result-screen">
+        <h1>Quiz Results</h1>
+        <div class="result-info">
+          <p>
+            You scored <span id="final-score">0</span> out of
+            <span id="max-score">10</span>
+          </p>
+        </div>
+        <div class="result-actions">
+          <button id="retry-btn" type="button">New game</button>
+          <button id="sections-btn" class="ghost-btn" type="button">All sections</button>
+        </div>
+      </div>
+    </div>
+    <script src="questions.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
