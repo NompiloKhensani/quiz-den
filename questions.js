@@ -188,7 +188,6 @@ const sections = [
             "correct": true
           },
           {
-
             "text": "The Nile",
             "correct": false
           },
@@ -792,6 +791,534 @@ const sections = [
           },
           {
             "text": "Tunisia",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the capital of Japan?",
+        "answers": [
+          {
+            "text": "Tokyo",
+            "correct": true
+          },
+          {
+            "text": "Osaka",
+            "correct": false
+          },
+          {
+            "text": "Kyoto",
+            "correct": false
+          },
+          {
+            "text": "Hiroshima",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the capital of the United States?",
+        "answers": [
+          {
+            "text": "Washington, D.C.",
+            "correct": true
+          },
+          {
+            "text": "New York",
+            "correct": false
+          },
+          {
+            "text": "Los Angeles",
+            "correct": false
+          },
+          {
+            "text": "Chicago",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "The Nile River is in which continent?",
+        "answers": [
+          {
+            "text": "Africa",
+            "correct": true
+          },
+          {
+            "text": "Asia",
+            "correct": false
+          },
+          {
+            "text": "Europe",
+            "correct": false
+          },
+          {
+            "text": "South America",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which desert is the world's largest hot desert?",
+        "answers": [
+          {
+            "text": "The Sahara",
+            "correct": true
+          },
+          {
+            "text": "The Gobi",
+            "correct": false
+          },
+          {
+            "text": "The Kalahari",
+            "correct": false
+          },
+          {
+            "text": "The Arabian",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the capital of China?",
+        "answers": [
+          {
+            "text": "Beijing",
+            "correct": true
+          },
+          {
+            "text": "Shanghai",
+            "correct": false
+          },
+          {
+            "text": "Hong Kong",
+            "correct": false
+          },
+          {
+            "text": "Guangzhou",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the smallest continent by area?",
+        "answers": [
+          {
+            "text": "Australia",
+            "correct": true
+          },
+          {
+            "text": "Europe",
+            "correct": false
+          },
+          {
+            "text": "Antarctica",
+            "correct": false
+          },
+          {
+            "text": "South America",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the capital of India?",
+        "answers": [
+          {
+            "text": "New Delhi",
+            "correct": true
+          },
+          {
+            "text": "Mumbai",
+            "correct": false
+          },
+          {
+            "text": "Kolkata",
+            "correct": false
+          },
+          {
+            "text": "Chennai",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "The Amazon River is in which continent?",
+        "answers": [
+          {
+            "text": "South America",
+            "correct": true
+          },
+          {
+            "text": "Africa",
+            "correct": false
+          },
+          {
+            "text": "Asia",
+            "correct": false
+          },
+          {
+            "text": "North America",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the capital of Argentina?",
+        "answers": [
+          {
+            "text": "Buenos Aires",
+            "correct": true
+          },
+          {
+            "text": "Santiago",
+            "correct": false
+          },
+          {
+            "text": "Lima",
+            "correct": false
+          },
+          {
+            "text": "Montevideo",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the capital of Turkey?",
+        "answers": [
+          {
+            "text": "Ankara",
+            "correct": true
+          },
+          {
+            "text": "Istanbul",
+            "correct": false
+          },
+          {
+            "text": "Izmir",
+            "correct": false
+          },
+          {
+            "text": "Antalya",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "The Andes mountains are mainly in which continent?",
+        "answers": [
+          {
+            "text": "South America",
+            "correct": true
+          },
+          {
+            "text": "North America",
+            "correct": false
+          },
+          {
+            "text": "Asia",
+            "correct": false
+          },
+          {
+            "text": "Europe",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the capital of Thailand?",
+        "answers": [
+          {
+            "text": "Bangkok",
+            "correct": true
+          },
+          {
+            "text": "Phuket",
+            "correct": false
+          },
+          {
+            "text": "Chiang Mai",
+            "correct": false
+          },
+          {
+            "text": "Manila",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which US state is the largest by area?",
+        "answers": [
+          {
+            "text": "Alaska",
+            "correct": true
+          },
+          {
+            "text": "Texas",
+            "correct": false
+          },
+          {
+            "text": "California",
+            "correct": false
+          },
+          {
+            "text": "Montana",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the capital of Portugal?",
+        "answers": [
+          {
+            "text": "Lisbon",
+            "correct": true
+          },
+          {
+            "text": "Porto",
+            "correct": false
+          },
+          {
+            "text": "Madrid",
+            "correct": false
+          },
+          {
+            "text": "Seville",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the capital of Sweden?",
+        "answers": [
+          {
+            "text": "Stockholm",
+            "correct": true
+          },
+          {
+            "text": "Oslo",
+            "correct": false
+          },
+          {
+            "text": "Copenhagen",
+            "correct": false
+          },
+          {
+            "text": "Helsinki",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the capital of Greece?",
+        "answers": [
+          {
+            "text": "Athens",
+            "correct": true
+          },
+          {
+            "text": "Sparta",
+            "correct": false
+          },
+          {
+            "text": "Thessaloniki",
+            "correct": false
+          },
+          {
+            "text": "Rome",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the capital of Ethiopia?",
+        "answers": [
+          {
+            "text": "Addis Ababa",
+            "correct": true
+          },
+          {
+            "text": "Nairobi",
+            "correct": false
+          },
+          {
+            "text": "Khartoum",
+            "correct": false
+          },
+          {
+            "text": "Kampala",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "The Atacama Desert is mainly in which country?",
+        "answers": [
+          {
+            "text": "Chile",
+            "correct": true
+          },
+          {
+            "text": "Peru",
+            "correct": false
+          },
+          {
+            "text": "Argentina",
+            "correct": false
+          },
+          {
+            "text": "Bolivia",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the capital of Ukraine?",
+        "answers": [
+          {
+            "text": "Kyiv",
+            "correct": true
+          },
+          {
+            "text": "Moscow",
+            "correct": false
+          },
+          {
+            "text": "Minsk",
+            "correct": false
+          },
+          {
+            "text": "Warsaw",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "The Ural Mountains separate Europe from which continent?",
+        "answers": [
+          {
+            "text": "Asia",
+            "correct": true
+          },
+          {
+            "text": "Africa",
+            "correct": false
+          },
+          {
+            "text": "North America",
+            "correct": false
+          },
+          {
+            "text": "Australia",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the deepest ocean trench called?",
+        "answers": [
+          {
+            "text": "The Mariana Trench",
+            "correct": true
+          },
+          {
+            "text": "The Puerto Rico Trench",
+            "correct": false
+          },
+          {
+            "text": "The Java Trench",
+            "correct": false
+          },
+          {
+            "text": "The Tonga Trench",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the capital of Peru?",
+        "answers": [
+          {
+            "text": "Lima",
+            "correct": true
+          },
+          {
+            "text": "Cusco",
+            "correct": false
+          },
+          {
+            "text": "Quito",
+            "correct": false
+          },
+          {
+            "text": "Bogotá",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the capital of Hungary?",
+        "answers": [
+          {
+            "text": "Budapest",
+            "correct": true
+          },
+          {
+            "text": "Bucharest",
+            "correct": false
+          },
+          {
+            "text": "Belgrade",
+            "correct": false
+          },
+          {
+            "text": "Prague",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "The Mekong River empties into which sea?",
+        "answers": [
+          {
+            "text": "The South China Sea",
+            "correct": true
+          },
+          {
+            "text": "The Red Sea",
+            "correct": false
+          },
+          {
+            "text": "The Black Sea",
+            "correct": false
+          },
+          {
+            "text": "The Caspian Sea",
             "correct": false
           }
         ],
@@ -1595,6 +2122,534 @@ const sections = [
           }
         ],
         "difficulty": "hard"
+      },
+      {
+        "question": "How many players does a football team have on the pitch?",
+        "answers": [
+          {
+            "text": "11",
+            "correct": true
+          },
+          {
+            "text": "10",
+            "correct": false
+          },
+          {
+            "text": "9",
+            "correct": false
+          },
+          {
+            "text": "15",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "The Super Bowl is the final of which sport?",
+        "answers": [
+          {
+            "text": "American football",
+            "correct": true
+          },
+          {
+            "text": "Basketball",
+            "correct": false
+          },
+          {
+            "text": "Baseball",
+            "correct": false
+          },
+          {
+            "text": "Ice hockey",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Cristiano Ronaldo is from which country?",
+        "answers": [
+          {
+            "text": "Portugal",
+            "correct": true
+          },
+          {
+            "text": "Spain",
+            "correct": false
+          },
+          {
+            "text": "Brazil",
+            "correct": false
+          },
+          {
+            "text": "Argentina",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "The NBA is the top league in which sport?",
+        "answers": [
+          {
+            "text": "Basketball",
+            "correct": true
+          },
+          {
+            "text": "Baseball",
+            "correct": false
+          },
+          {
+            "text": "American football",
+            "correct": false
+          },
+          {
+            "text": "Ice hockey",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "How many holes are played in a standard round of golf?",
+        "answers": [
+          {
+            "text": "18",
+            "correct": true
+          },
+          {
+            "text": "9",
+            "correct": false
+          },
+          {
+            "text": "12",
+            "correct": false
+          },
+          {
+            "text": "21",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "A hat-trick in football means how many goals?",
+        "answers": [
+          {
+            "text": "3",
+            "correct": true
+          },
+          {
+            "text": "2",
+            "correct": false
+          },
+          {
+            "text": "4",
+            "correct": false
+          },
+          {
+            "text": "5",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "The Olympic Games are normally held every how many years?",
+        "answers": [
+          {
+            "text": "4",
+            "correct": true
+          },
+          {
+            "text": "2",
+            "correct": false
+          },
+          {
+            "text": "3",
+            "correct": false
+          },
+          {
+            "text": "5",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "How many points is a rugby union try worth?",
+        "answers": [
+          {
+            "text": "5",
+            "correct": true
+          },
+          {
+            "text": "3",
+            "correct": false
+          },
+          {
+            "text": "4",
+            "correct": false
+          },
+          {
+            "text": "7",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "How many players from one team are on a basketball court at once?",
+        "answers": [
+          {
+            "text": "5",
+            "correct": true
+          },
+          {
+            "text": "6",
+            "correct": false
+          },
+          {
+            "text": "7",
+            "correct": false
+          },
+          {
+            "text": "11",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "The Six Nations Championship is contested in which sport?",
+        "answers": [
+          {
+            "text": "Rugby union",
+            "correct": true
+          },
+          {
+            "text": "Football",
+            "correct": false
+          },
+          {
+            "text": "Cricket",
+            "correct": false
+          },
+          {
+            "text": "Tennis",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which country has won the most FIFA World Cups?",
+        "answers": [
+          {
+            "text": "Brazil",
+            "correct": true
+          },
+          {
+            "text": "Germany",
+            "correct": false
+          },
+          {
+            "text": "Italy",
+            "correct": false
+          },
+          {
+            "text": "Argentina",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Old Trafford is the home of which club?",
+        "answers": [
+          {
+            "text": "Manchester United",
+            "correct": true
+          },
+          {
+            "text": "Liverpool",
+            "correct": false
+          },
+          {
+            "text": "Manchester City",
+            "correct": false
+          },
+          {
+            "text": "Everton",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "The Stanley Cup is awarded in which sport?",
+        "answers": [
+          {
+            "text": "Ice hockey",
+            "correct": true
+          },
+          {
+            "text": "American football",
+            "correct": false
+          },
+          {
+            "text": "Basketball",
+            "correct": false
+          },
+          {
+            "text": "Baseball",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "How long is a standard football match, not including extra time?",
+        "answers": [
+          {
+            "text": "90 minutes",
+            "correct": true
+          },
+          {
+            "text": "80 minutes",
+            "correct": false
+          },
+          {
+            "text": "60 minutes",
+            "correct": false
+          },
+          {
+            "text": "120 minutes",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which country hosted the 2022 FIFA World Cup?",
+        "answers": [
+          {
+            "text": "Qatar",
+            "correct": true
+          },
+          {
+            "text": "Russia",
+            "correct": false
+          },
+          {
+            "text": "Brazil",
+            "correct": false
+          },
+          {
+            "text": "Germany",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "The Ryder Cup is contested in which sport?",
+        "answers": [
+          {
+            "text": "Golf",
+            "correct": true
+          },
+          {
+            "text": "Tennis",
+            "correct": false
+          },
+          {
+            "text": "Cricket",
+            "correct": false
+          },
+          {
+            "text": "Rugby",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who is the Premier League's all-time top scorer?",
+        "answers": [
+          {
+            "text": "Alan Shearer",
+            "correct": true
+          },
+          {
+            "text": "Wayne Rooney",
+            "correct": false
+          },
+          {
+            "text": "Harry Kane",
+            "correct": false
+          },
+          {
+            "text": "Thierry Henry",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Which club has won the most UEFA Champions League titles?",
+        "answers": [
+          {
+            "text": "Real Madrid",
+            "correct": true
+          },
+          {
+            "text": "AC Milan",
+            "correct": false
+          },
+          {
+            "text": "Bayern Munich",
+            "correct": false
+          },
+          {
+            "text": "Liverpool",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "The Ashes is a cricket series between England and which country?",
+        "answers": [
+          {
+            "text": "Australia",
+            "correct": true
+          },
+          {
+            "text": "India",
+            "correct": false
+          },
+          {
+            "text": "South Africa",
+            "correct": false
+          },
+          {
+            "text": "New Zealand",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who won the 2022 FIFA World Cup?",
+        "answers": [
+          {
+            "text": "Argentina",
+            "correct": true
+          },
+          {
+            "text": "France",
+            "correct": false
+          },
+          {
+            "text": "Brazil",
+            "correct": false
+          },
+          {
+            "text": "Germany",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "A perfect game in ten-pin bowling is how many points?",
+        "answers": [
+          {
+            "text": "300",
+            "correct": true
+          },
+          {
+            "text": "200",
+            "correct": false
+          },
+          {
+            "text": "250",
+            "correct": false
+          },
+          {
+            "text": "100",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Muhammad Ali competed in which sport?",
+        "answers": [
+          {
+            "text": "Boxing",
+            "correct": true
+          },
+          {
+            "text": "Wrestling",
+            "correct": false
+          },
+          {
+            "text": "MMA",
+            "correct": false
+          },
+          {
+            "text": "American football",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Kylian Mbappé plays internationally for which country?",
+        "answers": [
+          {
+            "text": "France",
+            "correct": true
+          },
+          {
+            "text": "Belgium",
+            "correct": false
+          },
+          {
+            "text": "Portugal",
+            "correct": false
+          },
+          {
+            "text": "Spain",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "How many Formula 1 world titles did Michael Schumacher win?",
+        "answers": [
+          {
+            "text": "7",
+            "correct": true
+          },
+          {
+            "text": "5",
+            "correct": false
+          },
+          {
+            "text": "6",
+            "correct": false
+          },
+          {
+            "text": "8",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
       }
     ]
   },
@@ -2394,6 +3449,534 @@ const sections = [
           }
         ],
         "difficulty": "hard"
+      },
+      {
+        "question": "What is Spider-Man's real name?",
+        "answers": [
+          {
+            "text": "Peter Parker",
+            "correct": true
+          },
+          {
+            "text": "Clark Kent",
+            "correct": false
+          },
+          {
+            "text": "Bruce Wayne",
+            "correct": false
+          },
+          {
+            "text": "Tony Stark",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Elsa is a character from which film?",
+        "answers": [
+          {
+            "text": "Frozen",
+            "correct": true
+          },
+          {
+            "text": "Moana",
+            "correct": false
+          },
+          {
+            "text": "Tangled",
+            "correct": false
+          },
+          {
+            "text": "Brave",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the name of Harry Potter's owl?",
+        "answers": [
+          {
+            "text": "Hedwig",
+            "correct": true
+          },
+          {
+            "text": "Errol",
+            "correct": false
+          },
+          {
+            "text": "Crookshanks",
+            "correct": false
+          },
+          {
+            "text": "Scabbers",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Minions appear in which film series?",
+        "answers": [
+          {
+            "text": "Despicable Me",
+            "correct": true
+          },
+          {
+            "text": "Shrek",
+            "correct": false
+          },
+          {
+            "text": "Toy Story",
+            "correct": false
+          },
+          {
+            "text": "Ice Age",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who directed Titanic?",
+        "answers": [
+          {
+            "text": "James Cameron",
+            "correct": true
+          },
+          {
+            "text": "Steven Spielberg",
+            "correct": false
+          },
+          {
+            "text": "Christopher Nolan",
+            "correct": false
+          },
+          {
+            "text": "Ridley Scott",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "May the Force be with you comes from which franchise?",
+        "answers": [
+          {
+            "text": "Star Wars",
+            "correct": true
+          },
+          {
+            "text": "Star Trek",
+            "correct": false
+          },
+          {
+            "text": "The Matrix",
+            "correct": false
+          },
+          {
+            "text": "Guardians of the Galaxy",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who played T'Challa in Black Panther?",
+        "answers": [
+          {
+            "text": "Chadwick Boseman",
+            "correct": true
+          },
+          {
+            "text": "Michael B. Jordan",
+            "correct": false
+          },
+          {
+            "text": "John Boyega",
+            "correct": false
+          },
+          {
+            "text": "Idris Elba",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Finding Nemo is about a father searching for his what?",
+        "answers": [
+          {
+            "text": "Son",
+            "correct": true
+          },
+          {
+            "text": "Brother",
+            "correct": false
+          },
+          {
+            "text": "Friend",
+            "correct": false
+          },
+          {
+            "text": "Wife",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who plays Iron Man in the Marvel films?",
+        "answers": [
+          {
+            "text": "Robert Downey Jr.",
+            "correct": true
+          },
+          {
+            "text": "Chris Evans",
+            "correct": false
+          },
+          {
+            "text": "Chris Hemsworth",
+            "correct": false
+          },
+          {
+            "text": "Mark Ruffalo",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who directed Jurassic Park?",
+        "answers": [
+          {
+            "text": "Steven Spielberg",
+            "correct": true
+          },
+          {
+            "text": "James Cameron",
+            "correct": false
+          },
+          {
+            "text": "George Lucas",
+            "correct": false
+          },
+          {
+            "text": "Peter Jackson",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who plays Deadpool?",
+        "answers": [
+          {
+            "text": "Ryan Reynolds",
+            "correct": true
+          },
+          {
+            "text": "Hugh Jackman",
+            "correct": false
+          },
+          {
+            "text": "Chris Pratt",
+            "correct": false
+          },
+          {
+            "text": "Tom Holland",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who directed Inception?",
+        "answers": [
+          {
+            "text": "Christopher Nolan",
+            "correct": true
+          },
+          {
+            "text": "Denis Villeneuve",
+            "correct": false
+          },
+          {
+            "text": "Zack Snyder",
+            "correct": false
+          },
+          {
+            "text": "Ridley Scott",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Game of Thrones is based on books by whom?",
+        "answers": [
+          {
+            "text": "George R.R. Martin",
+            "correct": true
+          },
+          {
+            "text": "J.R.R. Tolkien",
+            "correct": false
+          },
+          {
+            "text": "C.S. Lewis",
+            "correct": false
+          },
+          {
+            "text": "J.K. Rowling",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "The Godfather is about which crime family?",
+        "answers": [
+          {
+            "text": "The Corleones",
+            "correct": true
+          },
+          {
+            "text": "The Sopranos",
+            "correct": false
+          },
+          {
+            "text": "The Gambinos",
+            "correct": false
+          },
+          {
+            "text": "The Goodfellas",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who directed Pulp Fiction?",
+        "answers": [
+          {
+            "text": "Quentin Tarantino",
+            "correct": true
+          },
+          {
+            "text": "Martin Scorsese",
+            "correct": false
+          },
+          {
+            "text": "Francis Ford Coppola",
+            "correct": false
+          },
+          {
+            "text": "Guy Ritchie",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who voices Shrek?",
+        "answers": [
+          {
+            "text": "Mike Myers",
+            "correct": true
+          },
+          {
+            "text": "Eddie Murphy",
+            "correct": false
+          },
+          {
+            "text": "Cameron Diaz",
+            "correct": false
+          },
+          {
+            "text": "John Goodman",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who directed Parasite?",
+        "answers": [
+          {
+            "text": "Bong Joon-ho",
+            "correct": true
+          },
+          {
+            "text": "Park Chan-wook",
+            "correct": false
+          },
+          {
+            "text": "Lee Isaac Chung",
+            "correct": false
+          },
+          {
+            "text": "Hirokazu Kore-eda",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who composed the music for Star Wars?",
+        "answers": [
+          {
+            "text": "John Williams",
+            "correct": true
+          },
+          {
+            "text": "Hans Zimmer",
+            "correct": false
+          },
+          {
+            "text": "Ennio Morricone",
+            "correct": false
+          },
+          {
+            "text": "Howard Shore",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who directed the original Alien?",
+        "answers": [
+          {
+            "text": "Ridley Scott",
+            "correct": true
+          },
+          {
+            "text": "James Cameron",
+            "correct": false
+          },
+          {
+            "text": "George Lucas",
+            "correct": false
+          },
+          {
+            "text": "Stanley Kubrick",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who directed Get Out?",
+        "answers": [
+          {
+            "text": "Jordan Peele",
+            "correct": true
+          },
+          {
+            "text": "Jordan Hines",
+            "correct": false
+          },
+          {
+            "text": "Spike Lee",
+            "correct": false
+          },
+          {
+            "text": "John Singleton",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "In Blade Runner, the artificial humans are called what?",
+        "answers": [
+          {
+            "text": "Replicants",
+            "correct": true
+          },
+          {
+            "text": "Cylons",
+            "correct": false
+          },
+          {
+            "text": "Androids",
+            "correct": false
+          },
+          {
+            "text": "Hosts",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who won Best Actor for Oppenheimer?",
+        "answers": [
+          {
+            "text": "Cillian Murphy",
+            "correct": true
+          },
+          {
+            "text": "Robert Downey Jr.",
+            "correct": false
+          },
+          {
+            "text": "Bradley Cooper",
+            "correct": false
+          },
+          {
+            "text": "Paul Giamatti",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "The Shawshank Redemption is based on a story by whom?",
+        "answers": [
+          {
+            "text": "Stephen King",
+            "correct": true
+          },
+          {
+            "text": "John Grisham",
+            "correct": false
+          },
+          {
+            "text": "James Patterson",
+            "correct": false
+          },
+          {
+            "text": "Dean Koontz",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "2001: A Space Odyssey was directed by whom?",
+        "answers": [
+          {
+            "text": "Stanley Kubrick",
+            "correct": true
+          },
+          {
+            "text": "Steven Spielberg",
+            "correct": false
+          },
+          {
+            "text": "Ridley Scott",
+            "correct": false
+          },
+          {
+            "text": "George Lucas",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
       }
     ]
   },
@@ -2425,94 +4008,6 @@ const sections = [
         "difficulty": "easy"
       },
       {
-        "question": "BTS are from which country?",
-        "answers": [
-          {
-            "text": "South Korea",
-            "correct": true
-          },
-          {
-            "text": "Japan",
-            "correct": false
-          },
-          {
-            "text": "China",
-            "correct": false
-          },
-          {
-            "text": "Thailand",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Beyoncé was a member of which group?",
-        "answers": [
-          {
-            "text": "Destiny’s Child",
-            "correct": true
-          },
-          {
-            "text": "The Spice Girls",
-            "correct": false
-          },
-          {
-            "text": "TLC",
-            "correct": false
-          },
-          {
-            "text": "Fifth Harmony",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Who sings Anti-Hero?",
-        "answers": [
-          {
-            "text": "Taylor Swift",
-            "correct": true
-          },
-          {
-            "text": "Adele",
-            "correct": false
-          },
-          {
-            "text": "Billie Eilish",
-            "correct": false
-          },
-          {
-            "text": "Olivia Rodrigo",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Who sings Levitating?",
-        "answers": [
-          {
-            "text": "Dua Lipa",
-            "correct": true
-          },
-          {
-            "text": "Taylor Swift",
-            "correct": false
-          },
-          {
-            "text": "Ariana Grande",
-            "correct": false
-          },
-          {
-            "text": "Doja Cat",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
         "question": "A violin is usually played with what?",
         "answers": [
           {
@@ -2535,314 +4030,6 @@ const sections = [
         "difficulty": "easy"
       },
       {
-        "question": "Which artist is known as Queen Bey?",
-        "answers": [
-          {
-            "text": "Beyoncé",
-            "correct": true
-          },
-          {
-            "text": "Rihanna",
-            "correct": false
-          },
-          {
-            "text": "Madonna",
-            "correct": false
-          },
-          {
-            "text": "Whitney Houston",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Circle of Life is a song from which film?",
-        "answers": [
-          {
-            "text": "The Lion King",
-            "correct": true
-          },
-          {
-            "text": "Frozen",
-            "correct": false
-          },
-          {
-            "text": "Moana",
-            "correct": false
-          },
-          {
-            "text": "Aladdin",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Who released the 2023 hit Flowers?",
-        "answers": [
-          {
-            "text": "Miley Cyrus",
-            "correct": true
-          },
-          {
-            "text": "Taylor Swift",
-            "correct": false
-          },
-          {
-            "text": "Dua Lipa",
-            "correct": false
-          },
-          {
-            "text": "SZA",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "As It Was was a hit for which singer?",
-        "answers": [
-          {
-            "text": "Harry Styles",
-            "correct": true
-          },
-          {
-            "text": "Ed Sheeran",
-            "correct": false
-          },
-          {
-            "text": "The Weeknd",
-            "correct": false
-          },
-          {
-            "text": "Bruno Mars",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Billie Eilish often writes songs with which brother?",
-        "answers": [
-          {
-            "text": "Finneas",
-            "correct": true
-          },
-          {
-            "text": "Pharrell",
-            "correct": false
-          },
-          {
-            "text": "Jack Antonoff",
-            "correct": false
-          },
-          {
-            "text": "Max Martin",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Drake is from which country?",
-        "answers": [
-          {
-            "text": "Canada",
-            "correct": true
-          },
-          {
-            "text": "The United States",
-            "correct": false
-          },
-          {
-            "text": "The United Kingdom",
-            "correct": false
-          },
-          {
-            "text": "Jamaica",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Easy On Me is on which Adele album?",
-        "answers": [
-          {
-            "text": "30",
-            "correct": true
-          },
-          {
-            "text": "19",
-            "correct": false
-          },
-          {
-            "text": "21",
-            "correct": false
-          },
-          {
-            "text": "25",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Adele is from which country?",
-        "answers": [
-          {
-            "text": "England",
-            "correct": true
-          },
-          {
-            "text": "The United States",
-            "correct": false
-          },
-          {
-            "text": "Australia",
-            "correct": false
-          },
-          {
-            "text": "Canada",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "SOS is an album by which singer?",
-        "answers": [
-          {
-            "text": "SZA",
-            "correct": true
-          },
-          {
-            "text": "Summer Walker",
-            "correct": false
-          },
-          {
-            "text": "H.E.R.",
-            "correct": false
-          },
-          {
-            "text": "Jhené Aiko",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "Calm Down was a hit for which artist?",
-        "answers": [
-          {
-            "text": "Rema",
-            "correct": true
-          },
-          {
-            "text": "Wizkid",
-            "correct": false
-          },
-          {
-            "text": "Burna Boy",
-            "correct": false
-          },
-          {
-            "text": "Davido",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "Midnights is an album by which singer?",
-        "answers": [
-          {
-            "text": "Taylor Swift",
-            "correct": true
-          },
-          {
-            "text": "Olivia Rodrigo",
-            "correct": false
-          },
-          {
-            "text": "Billie Eilish",
-            "correct": false
-          },
-          {
-            "text": "Lana Del Rey",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "eternal sunshine is an album by which singer?",
-        "answers": [
-          {
-            "text": "Ariana Grande",
-            "correct": true
-          },
-          {
-            "text": "Taylor Swift",
-            "correct": false
-          },
-          {
-            "text": "Dua Lipa",
-            "correct": false
-          },
-          {
-            "text": "Olivia Rodrigo",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "Made in Lagos is an album by which artist?",
-        "answers": [
-          {
-            "text": "Wizkid",
-            "correct": true
-          },
-          {
-            "text": "Burna Boy",
-            "correct": false
-          },
-          {
-            "text": "Davido",
-            "correct": false
-          },
-          {
-            "text": "Black Coffee",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "Vampire and Drivers License were hits for which singer?",
-        "answers": [
-          {
-            "text": "Olivia Rodrigo",
-            "correct": true
-          },
-          {
-            "text": "Billie Eilish",
-            "correct": false
-          },
-          {
-            "text": "Tate McRae",
-            "correct": false
-          },
-          {
-            "text": "Sabrina Carpenter",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
         "question": "Who is known as the King of Pop?",
         "answers": [
           {
@@ -2859,28 +4046,6 @@ const sections = [
           },
           {
             "text": "Justin Timberlake",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Who sang Umbrella?",
-        "answers": [
-          {
-            "text": "Rihanna",
-            "correct": true
-          },
-          {
-            "text": "Beyoncé",
-            "correct": false
-          },
-          {
-            "text": "Alicia Keys",
-            "correct": false
-          },
-          {
-            "text": "Christina Aguilera",
             "correct": false
           }
         ],
@@ -2909,10 +4074,274 @@ const sections = [
         "difficulty": "easy"
       },
       {
-        "question": "Who is known as the Queen of Pop?",
+        "question": "Beyoncé was a member of which group?",
         "answers": [
           {
-            "text": "Madonna",
+            "text": "Destiny’s Child",
+            "correct": true
+          },
+          {
+            "text": "The Spice Girls",
+            "correct": false
+          },
+          {
+            "text": "TLC",
+            "correct": false
+          },
+          {
+            "text": "Fifth Harmony",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "The Beatles were formed in which city?",
+        "answers": [
+          {
+            "text": "Liverpool",
+            "correct": true
+          },
+          {
+            "text": "London",
+            "correct": false
+          },
+          {
+            "text": "Manchester",
+            "correct": false
+          },
+          {
+            "text": "Birmingham",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who was the lead singer of Queen?",
+        "answers": [
+          {
+            "text": "Freddie Mercury",
+            "correct": true
+          },
+          {
+            "text": "Mick Jagger",
+            "correct": false
+          },
+          {
+            "text": "Robert Plant",
+            "correct": false
+          },
+          {
+            "text": "Axl Rose",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which rapper is also known as Slim Shady?",
+        "answers": [
+          {
+            "text": "Eminem",
+            "correct": true
+          },
+          {
+            "text": "Snoop Dogg",
+            "correct": false
+          },
+          {
+            "text": "Dr. Dre",
+            "correct": false
+          },
+          {
+            "text": "50 Cent",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who is known as the King of Rock and Roll?",
+        "answers": [
+          {
+            "text": "Elvis Presley",
+            "correct": true
+          },
+          {
+            "text": "Chuck Berry",
+            "correct": false
+          },
+          {
+            "text": "Johnny Cash",
+            "correct": false
+          },
+          {
+            "text": "Buddy Holly",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "AC/DC are from which country?",
+        "answers": [
+          {
+            "text": "Australia",
+            "correct": true
+          },
+          {
+            "text": "The United States",
+            "correct": false
+          },
+          {
+            "text": "The United Kingdom",
+            "correct": false
+          },
+          {
+            "text": "Canada",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Metallica is best known for which genre?",
+        "answers": [
+          {
+            "text": "Heavy metal",
+            "correct": true
+          },
+          {
+            "text": "Disco",
+            "correct": false
+          },
+          {
+            "text": "Country",
+            "correct": false
+          },
+          {
+            "text": "Reggae",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "We Will Rock You was recorded by which band?",
+        "answers": [
+          {
+            "text": "Queen",
+            "correct": true
+          },
+          {
+            "text": "The Rolling Stones",
+            "correct": false
+          },
+          {
+            "text": "The Who",
+            "correct": false
+          },
+          {
+            "text": "Kiss",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "How many strings does a standard bass guitar usually have?",
+        "answers": [
+          {
+            "text": "4",
+            "correct": true
+          },
+          {
+            "text": "6",
+            "correct": false
+          },
+          {
+            "text": "5",
+            "correct": false
+          },
+          {
+            "text": "8",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Bob Marley is best known for which genre?",
+        "answers": [
+          {
+            "text": "Reggae",
+            "correct": true
+          },
+          {
+            "text": "Jazz",
+            "correct": false
+          },
+          {
+            "text": "Blues",
+            "correct": false
+          },
+          {
+            "text": "Soul",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who was the lead singer of Nirvana?",
+        "answers": [
+          {
+            "text": "Kurt Cobain",
+            "correct": true
+          },
+          {
+            "text": "Eddie Vedder",
+            "correct": false
+          },
+          {
+            "text": "Chris Cornell",
+            "correct": false
+          },
+          {
+            "text": "Layne Staley",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "A piano is played using black and white what?",
+        "answers": [
+          {
+            "text": "Keys",
+            "correct": true
+          },
+          {
+            "text": "Strings",
+            "correct": false
+          },
+          {
+            "text": "Pedals",
+            "correct": false
+          },
+          {
+            "text": "Pipes",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who sang Umbrella?",
+        "answers": [
+          {
+            "text": "Rihanna",
             "correct": true
           },
           {
@@ -2920,15 +4349,103 @@ const sections = [
             "correct": false
           },
           {
-            "text": "Lady Gaga",
+            "text": "Alicia Keys",
             "correct": false
           },
           {
-            "text": "Britney Spears",
+            "text": "Christina Aguilera",
             "correct": false
           }
         ],
         "difficulty": "easy"
+      },
+      {
+        "question": "BTS are from which country?",
+        "answers": [
+          {
+            "text": "South Korea",
+            "correct": true
+          },
+          {
+            "text": "Japan",
+            "correct": false
+          },
+          {
+            "text": "China",
+            "correct": false
+          },
+          {
+            "text": "Thailand",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who played guitar on Purple Haze?",
+        "answers": [
+          {
+            "text": "Jimi Hendrix",
+            "correct": true
+          },
+          {
+            "text": "Eric Clapton",
+            "correct": false
+          },
+          {
+            "text": "Jimmy Page",
+            "correct": false
+          },
+          {
+            "text": "Slash",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Eminem grew up in which US city?",
+        "answers": [
+          {
+            "text": "Detroit",
+            "correct": true
+          },
+          {
+            "text": "Chicago",
+            "correct": false
+          },
+          {
+            "text": "Atlanta",
+            "correct": false
+          },
+          {
+            "text": "Los Angeles",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Drake is from which country?",
+        "answers": [
+          {
+            "text": "Canada",
+            "correct": true
+          },
+          {
+            "text": "The United States",
+            "correct": false
+          },
+          {
+            "text": "The United Kingdom",
+            "correct": false
+          },
+          {
+            "text": "Jamaica",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
       },
       {
         "question": "Who is the lead singer of Coldplay?",
@@ -3019,28 +4536,6 @@ const sections = [
         "difficulty": "medium"
       },
       {
-        "question": "Shakira is from which country?",
-        "answers": [
-          {
-            "text": "Colombia",
-            "correct": true
-          },
-          {
-            "text": "Spain",
-            "correct": false
-          },
-          {
-            "text": "Mexico",
-            "correct": false
-          },
-          {
-            "text": "Argentina",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
         "question": "Uptown Funk was a hit for Mark Ronson and which singer?",
         "answers": [
           {
@@ -3063,22 +4558,352 @@ const sections = [
         "difficulty": "medium"
       },
       {
-        "question": "Lemonade is an album by which artist?",
+        "question": "Who is the lead singer of the Rolling Stones?",
         "answers": [
           {
-            "text": "Beyoncé",
+            "text": "Mick Jagger",
             "correct": true
           },
           {
-            "text": "Rihanna",
+            "text": "Keith Richards",
             "correct": false
           },
           {
-            "text": "Alicia Keys",
+            "text": "Roger Daltrey",
             "correct": false
           },
           {
-            "text": "SZA",
+            "text": "Steven Tyler",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Stairway to Heaven is a song by which band?",
+        "answers": [
+          {
+            "text": "Led Zeppelin",
+            "correct": true
+          },
+          {
+            "text": "Pink Floyd",
+            "correct": false
+          },
+          {
+            "text": "The Who",
+            "correct": false
+          },
+          {
+            "text": "Deep Purple",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Dr. Dre was a member of which group?",
+        "answers": [
+          {
+            "text": "N.W.A",
+            "correct": true
+          },
+          {
+            "text": "Wu-Tang Clan",
+            "correct": false
+          },
+          {
+            "text": "Public Enemy",
+            "correct": false
+          },
+          {
+            "text": "Outkast",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who sang Humble?",
+        "answers": [
+          {
+            "text": "Kendrick Lamar",
+            "correct": true
+          },
+          {
+            "text": "J. Cole",
+            "correct": false
+          },
+          {
+            "text": "Drake",
+            "correct": false
+          },
+          {
+            "text": "Travis Scott",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who is the lead singer of U2?",
+        "answers": [
+          {
+            "text": "Bono",
+            "correct": true
+          },
+          {
+            "text": "The Edge",
+            "correct": false
+          },
+          {
+            "text": "Chris Martin",
+            "correct": false
+          },
+          {
+            "text": "Mick Jagger",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "The Dark Side of the Moon is an album by which band?",
+        "answers": [
+          {
+            "text": "Pink Floyd",
+            "correct": true
+          },
+          {
+            "text": "Led Zeppelin",
+            "correct": false
+          },
+          {
+            "text": "The Beatles",
+            "correct": false
+          },
+          {
+            "text": "Queen",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Johnny Cash is best known for which genre?",
+        "answers": [
+          {
+            "text": "Country",
+            "correct": true
+          },
+          {
+            "text": "Jazz",
+            "correct": false
+          },
+          {
+            "text": "Disco",
+            "correct": false
+          },
+          {
+            "text": "Reggae",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Adele is from which country?",
+        "answers": [
+          {
+            "text": "England",
+            "correct": true
+          },
+          {
+            "text": "The United States",
+            "correct": false
+          },
+          {
+            "text": "Australia",
+            "correct": false
+          },
+          {
+            "text": "Canada",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who is the lead singer of Guns N' Roses?",
+        "answers": [
+          {
+            "text": "Axl Rose",
+            "correct": true
+          },
+          {
+            "text": "Slash",
+            "correct": false
+          },
+          {
+            "text": "Duff McKagan",
+            "correct": false
+          },
+          {
+            "text": "Steven Adler",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Oasis were led by which brothers?",
+        "answers": [
+          {
+            "text": "Noel and Liam Gallagher",
+            "correct": true
+          },
+          {
+            "text": "Ray and Dave Davies",
+            "correct": false
+          },
+          {
+            "text": "The Bee Gees",
+            "correct": false
+          },
+          {
+            "text": "The Jacksons",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "As It Was was a hit for which singer?",
+        "answers": [
+          {
+            "text": "Harry Styles",
+            "correct": true
+          },
+          {
+            "text": "Ed Sheeran",
+            "correct": false
+          },
+          {
+            "text": "The Weeknd",
+            "correct": false
+          },
+          {
+            "text": "Bruno Mars",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Tupac Shakur is also known as what?",
+        "answers": [
+          {
+            "text": "2Pac",
+            "correct": true
+          },
+          {
+            "text": "Biggie",
+            "correct": false
+          },
+          {
+            "text": "Nas",
+            "correct": false
+          },
+          {
+            "text": "Ice Cube",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "The Red Hot Chili Peppers formed in which US city?",
+        "answers": [
+          {
+            "text": "Los Angeles",
+            "correct": true
+          },
+          {
+            "text": "Seattle",
+            "correct": false
+          },
+          {
+            "text": "New York",
+            "correct": false
+          },
+          {
+            "text": "Chicago",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Seven Nation Army is a song by which band?",
+        "answers": [
+          {
+            "text": "The White Stripes",
+            "correct": true
+          },
+          {
+            "text": "The Black Keys",
+            "correct": false
+          },
+          {
+            "text": "Foo Fighters",
+            "correct": false
+          },
+          {
+            "text": "Arctic Monkeys",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Calm Down was a hit for which artist?",
+        "answers": [
+          {
+            "text": "Rema",
+            "correct": true
+          },
+          {
+            "text": "Wizkid",
+            "correct": false
+          },
+          {
+            "text": "Burna Boy",
+            "correct": false
+          },
+          {
+            "text": "Davido",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Made in Lagos is an album by which artist?",
+        "answers": [
+          {
+            "text": "Wizkid",
+            "correct": true
+          },
+          {
+            "text": "Burna Boy",
+            "correct": false
+          },
+          {
+            "text": "Davido",
+            "correct": false
+          },
+          {
+            "text": "Black Coffee",
             "correct": false
           }
         ],
@@ -3151,44 +4976,330 @@ const sections = [
         "difficulty": "hard"
       },
       {
-        "question": "Hit Me Hard and Soft is an album by which singer?",
+        "question": "Illmatic is a debut album by which rapper?",
         "answers": [
           {
-            "text": "Billie Eilish",
+            "text": "Nas",
             "correct": true
           },
           {
-            "text": "Olivia Rodrigo",
+            "text": "Jay-Z",
             "correct": false
           },
           {
-            "text": "Sabrina Carpenter",
+            "text": "The Notorious B.I.G.",
             "correct": false
           },
           {
-            "text": "Charli XCX",
+            "text": "Rakim",
             "correct": false
           }
         ],
         "difficulty": "hard"
       },
       {
-        "question": "Who sings Espresso?",
+        "question": "Nevermind is a breakthrough album by which band?",
         "answers": [
           {
-            "text": "Sabrina Carpenter",
+            "text": "Nirvana",
             "correct": true
           },
           {
-            "text": "Olivia Rodrigo",
+            "text": "Pearl Jam",
             "correct": false
           },
           {
-            "text": "Tate McRae",
+            "text": "Soundgarden",
             "correct": false
           },
           {
-            "text": "Dua Lipa",
+            "text": "Alice in Chains",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Back in Black is an album by which band?",
+        "answers": [
+          {
+            "text": "AC/DC",
+            "correct": true
+          },
+          {
+            "text": "Metallica",
+            "correct": false
+          },
+          {
+            "text": "Guns N' Roses",
+            "correct": false
+          },
+          {
+            "text": "Bon Jovi",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Abbey Road is an album by which band?",
+        "answers": [
+          {
+            "text": "The Beatles",
+            "correct": true
+          },
+          {
+            "text": "The Rolling Stones",
+            "correct": false
+          },
+          {
+            "text": "The Beach Boys",
+            "correct": false
+          },
+          {
+            "text": "The Kinks",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who is the lead guitarist of Queen?",
+        "answers": [
+          {
+            "text": "Brian May",
+            "correct": true
+          },
+          {
+            "text": "Freddie Mercury",
+            "correct": false
+          },
+          {
+            "text": "John Deacon",
+            "correct": false
+          },
+          {
+            "text": "Roger Taylor",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is the stage name of Guns N' Roses guitarist Saul Hudson?",
+        "answers": [
+          {
+            "text": "Slash",
+            "correct": true
+          },
+          {
+            "text": "Buckethead",
+            "correct": false
+          },
+          {
+            "text": "Zakk Wylde",
+            "correct": false
+          },
+          {
+            "text": "Joe Perry",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who founded Motown Records?",
+        "answers": [
+          {
+            "text": "Berry Gordy",
+            "correct": true
+          },
+          {
+            "text": "Ahmet Ertegun",
+            "correct": false
+          },
+          {
+            "text": "Clive Davis",
+            "correct": false
+          },
+          {
+            "text": "Rick Rubin",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Kind of Blue is a landmark album by which jazz musician?",
+        "answers": [
+          {
+            "text": "Miles Davis",
+            "correct": true
+          },
+          {
+            "text": "John Coltrane",
+            "correct": false
+          },
+          {
+            "text": "Louis Armstrong",
+            "correct": false
+          },
+          {
+            "text": "Duke Ellington",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "To Pimp a Butterfly is an album by which rapper?",
+        "answers": [
+          {
+            "text": "Kendrick Lamar",
+            "correct": true
+          },
+          {
+            "text": "J. Cole",
+            "correct": false
+          },
+          {
+            "text": "Kanye West",
+            "correct": false
+          },
+          {
+            "text": "Tyler, the Creator",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "What is The Weeknd's real name?",
+        "answers": [
+          {
+            "text": "Abel Tesfaye",
+            "correct": true
+          },
+          {
+            "text": "Aubrey Graham",
+            "correct": false
+          },
+          {
+            "text": "Austin Post",
+            "correct": false
+          },
+          {
+            "text": "Shaffer Smith",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Daft Punk are from which country?",
+        "answers": [
+          {
+            "text": "France",
+            "correct": true
+          },
+          {
+            "text": "Belgium",
+            "correct": false
+          },
+          {
+            "text": "Germany",
+            "correct": false
+          },
+          {
+            "text": "Canada",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Fela Kuti, pioneer of Afrobeat, was from which country?",
+        "answers": [
+          {
+            "text": "Nigeria",
+            "correct": true
+          },
+          {
+            "text": "Ghana",
+            "correct": false
+          },
+          {
+            "text": "Senegal",
+            "correct": false
+          },
+          {
+            "text": "Cameroon",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Enter Sandman is a hit by which band?",
+        "answers": [
+          {
+            "text": "Metallica",
+            "correct": true
+          },
+          {
+            "text": "Iron Maiden",
+            "correct": false
+          },
+          {
+            "text": "Megadeth",
+            "correct": false
+          },
+          {
+            "text": "Slayer",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who rapped on Empire State of Mind with Alicia Keys?",
+        "answers": [
+          {
+            "text": "Jay-Z",
+            "correct": true
+          },
+          {
+            "text": "Nas",
+            "correct": false
+          },
+          {
+            "text": "Notorious B.I.G.",
+            "correct": false
+          },
+          {
+            "text": "P. Diddy",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "The Wall is a rock opera album by which band?",
+        "answers": [
+          {
+            "text": "Pink Floyd",
+            "correct": true
+          },
+          {
+            "text": "The Who",
+            "correct": false
+          },
+          {
+            "text": "Genesis",
+            "correct": false
+          },
+          {
+            "text": "Yes",
             "correct": false
           }
         ],
@@ -3992,6 +6103,534 @@ const sections = [
           }
         ],
         "difficulty": "hard"
+      },
+      {
+        "question": "The Roman Colosseum is in which city?",
+        "answers": [
+          {
+            "text": "Rome",
+            "correct": true
+          },
+          {
+            "text": "Athens",
+            "correct": false
+          },
+          {
+            "text": "Istanbul",
+            "correct": false
+          },
+          {
+            "text": "Paris",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who was the British prime minister for most of the Second World War?",
+        "answers": [
+          {
+            "text": "Winston Churchill",
+            "correct": true
+          },
+          {
+            "text": "Neville Chamberlain",
+            "correct": false
+          },
+          {
+            "text": "Clement Attlee",
+            "correct": false
+          },
+          {
+            "text": "Margaret Thatcher",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "The Statue of Liberty was a gift from which country?",
+        "answers": [
+          {
+            "text": "France",
+            "correct": true
+          },
+          {
+            "text": "Britain",
+            "correct": false
+          },
+          {
+            "text": "Spain",
+            "correct": false
+          },
+          {
+            "text": "Italy",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who is commonly credited with inventing the light bulb?",
+        "answers": [
+          {
+            "text": "Thomas Edison",
+            "correct": true
+          },
+          {
+            "text": "Nikola Tesla",
+            "correct": false
+          },
+          {
+            "text": "Alexander Graham Bell",
+            "correct": false
+          },
+          {
+            "text": "Benjamin Franklin",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Mahatma Gandhi led the independence movement in which country?",
+        "answers": [
+          {
+            "text": "India",
+            "correct": true
+          },
+          {
+            "text": "Pakistan",
+            "correct": false
+          },
+          {
+            "text": "South Africa",
+            "correct": false
+          },
+          {
+            "text": "Kenya",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Vikings originally came from which region?",
+        "answers": [
+          {
+            "text": "Scandinavia",
+            "correct": true
+          },
+          {
+            "text": "Germany",
+            "correct": false
+          },
+          {
+            "text": "Russia",
+            "correct": false
+          },
+          {
+            "text": "Scotland",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "The Titanic sank in which ocean?",
+        "answers": [
+          {
+            "text": "The Atlantic Ocean",
+            "correct": true
+          },
+          {
+            "text": "The Pacific Ocean",
+            "correct": false
+          },
+          {
+            "text": "The Indian Ocean",
+            "correct": false
+          },
+          {
+            "text": "The Arctic Ocean",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who was assassinated in Dallas in 1963?",
+        "answers": [
+          {
+            "text": "John F. Kennedy",
+            "correct": true
+          },
+          {
+            "text": "Martin Luther King Jr.",
+            "correct": false
+          },
+          {
+            "text": "Abraham Lincoln",
+            "correct": false
+          },
+          {
+            "text": "Robert Kennedy",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "In which year did Christopher Columbus reach the Americas?",
+        "answers": [
+          {
+            "text": "1492",
+            "correct": true
+          },
+          {
+            "text": "1066",
+            "correct": false
+          },
+          {
+            "text": "1776",
+            "correct": false
+          },
+          {
+            "text": "1588",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "The Cold War was mainly between the United States and which country?",
+        "answers": [
+          {
+            "text": "The Soviet Union",
+            "correct": true
+          },
+          {
+            "text": "China",
+            "correct": false
+          },
+          {
+            "text": "Germany",
+            "correct": false
+          },
+          {
+            "text": "Japan",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "The Battle of Waterloo was fought in which year?",
+        "answers": [
+          {
+            "text": "1815",
+            "correct": true
+          },
+          {
+            "text": "1789",
+            "correct": false
+          },
+          {
+            "text": "1914",
+            "correct": false
+          },
+          {
+            "text": "1945",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who was the first female Prime Minister of the United Kingdom?",
+        "answers": [
+          {
+            "text": "Margaret Thatcher",
+            "correct": true
+          },
+          {
+            "text": "Theresa May",
+            "correct": false
+          },
+          {
+            "text": "Queen Victoria",
+            "correct": false
+          },
+          {
+            "text": "Angela Merkel",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "In which year did the Soviet Union collapse?",
+        "answers": [
+          {
+            "text": "1991",
+            "correct": true
+          },
+          {
+            "text": "1989",
+            "correct": false
+          },
+          {
+            "text": "1994",
+            "correct": false
+          },
+          {
+            "text": "1985",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "The Hundred Years' War was mainly between England and which country?",
+        "answers": [
+          {
+            "text": "France",
+            "correct": true
+          },
+          {
+            "text": "Spain",
+            "correct": false
+          },
+          {
+            "text": "Germany",
+            "correct": false
+          },
+          {
+            "text": "Scotland",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Hannibal crossed the Alps with elephants to fight which people?",
+        "answers": [
+          {
+            "text": "The Romans",
+            "correct": true
+          },
+          {
+            "text": "The Greeks",
+            "correct": false
+          },
+          {
+            "text": "The Persians",
+            "correct": false
+          },
+          {
+            "text": "The Egyptians",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who was the principal author of the US Declaration of Independence?",
+        "answers": [
+          {
+            "text": "Thomas Jefferson",
+            "correct": true
+          },
+          {
+            "text": "George Washington",
+            "correct": false
+          },
+          {
+            "text": "Benjamin Franklin",
+            "correct": false
+          },
+          {
+            "text": "John Adams",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who founded the Mongol Empire?",
+        "answers": [
+          {
+            "text": "Genghis Khan",
+            "correct": true
+          },
+          {
+            "text": "Kublai Khan",
+            "correct": false
+          },
+          {
+            "text": "Attila the Hun",
+            "correct": false
+          },
+          {
+            "text": "Tamerlane",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "The Spanish Armada sailed against England in which year?",
+        "answers": [
+          {
+            "text": "1588",
+            "correct": true
+          },
+          {
+            "text": "1492",
+            "correct": false
+          },
+          {
+            "text": "1666",
+            "correct": false
+          },
+          {
+            "text": "1815",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "In which year did India gain independence?",
+        "answers": [
+          {
+            "text": "1947",
+            "correct": true
+          },
+          {
+            "text": "1945",
+            "correct": false
+          },
+          {
+            "text": "1950",
+            "correct": false
+          },
+          {
+            "text": "1939",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who painted the ceiling of the Sistine Chapel?",
+        "answers": [
+          {
+            "text": "Michelangelo",
+            "correct": true
+          },
+          {
+            "text": "Leonardo da Vinci",
+            "correct": false
+          },
+          {
+            "text": "Raphael",
+            "correct": false
+          },
+          {
+            "text": "Donatello",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "The D-Day landings took place in which year?",
+        "answers": [
+          {
+            "text": "1944",
+            "correct": true
+          },
+          {
+            "text": "1940",
+            "correct": false
+          },
+          {
+            "text": "1942",
+            "correct": false
+          },
+          {
+            "text": "1945",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who wrote The Prince?",
+        "answers": [
+          {
+            "text": "Niccolò Machiavelli",
+            "correct": true
+          },
+          {
+            "text": "Thomas More",
+            "correct": false
+          },
+          {
+            "text": "Voltaire",
+            "correct": false
+          },
+          {
+            "text": "John Locke",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Julius Caesar was assassinated in which year?",
+        "answers": [
+          {
+            "text": "44 BC",
+            "correct": true
+          },
+          {
+            "text": "27 BC",
+            "correct": false
+          },
+          {
+            "text": "79 AD",
+            "correct": false
+          },
+          {
+            "text": "31 BC",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
+      },
+      {
+        "question": "Who was the last tsar of Russia?",
+        "answers": [
+          {
+            "text": "Nicholas II",
+            "correct": true
+          },
+          {
+            "text": "Peter the Great",
+            "correct": false
+          },
+          {
+            "text": "Alexander II",
+            "correct": false
+          },
+          {
+            "text": "Ivan the Terrible",
+            "correct": false
+          }
+        ],
+        "difficulty": "hard"
       }
     ]
   },
@@ -4083,6 +6722,358 @@ const sections = [
           },
           {
             "text": "12",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "The Springboks play which sport?",
+        "answers": [
+          {
+            "text": "Rugby union",
+            "correct": true
+          },
+          {
+            "text": "Cricket",
+            "correct": false
+          },
+          {
+            "text": "Football",
+            "correct": false
+          },
+          {
+            "text": "Tennis",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "The Proteas play which sport?",
+        "answers": [
+          {
+            "text": "Cricket",
+            "correct": true
+          },
+          {
+            "text": "Rugby",
+            "correct": false
+          },
+          {
+            "text": "Football",
+            "correct": false
+          },
+          {
+            "text": "Basketball",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Who had a global hit with Water?",
+        "answers": [
+          {
+            "text": "Tyla",
+            "correct": true
+          },
+          {
+            "text": "Beyoncé",
+            "correct": false
+          },
+          {
+            "text": "Rihanna",
+            "correct": false
+          },
+          {
+            "text": "Adele",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Lucky Dube was best known for which style of music?",
+        "answers": [
+          {
+            "text": "Reggae",
+            "correct": true
+          },
+          {
+            "text": "Opera",
+            "correct": false
+          },
+          {
+            "text": "Kwaito",
+            "correct": false
+          },
+          {
+            "text": "Jazz",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Nelson Mandela became president in which year?",
+        "answers": [
+          {
+            "text": "1994",
+            "correct": true
+          },
+          {
+            "text": "1990",
+            "correct": false
+          },
+          {
+            "text": "1984",
+            "correct": false
+          },
+          {
+            "text": "2000",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Freedom Day is on which date?",
+        "answers": [
+          {
+            "text": "27 April",
+            "correct": true
+          },
+          {
+            "text": "16 June",
+            "correct": false
+          },
+          {
+            "text": "21 March",
+            "correct": false
+          },
+          {
+            "text": "24 September",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Youth Day remembers events in which year?",
+        "answers": [
+          {
+            "text": "1976",
+            "correct": true
+          },
+          {
+            "text": "1960",
+            "correct": false
+          },
+          {
+            "text": "1994",
+            "correct": false
+          },
+          {
+            "text": "1948",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Robben Island lies off the coast of which city?",
+        "answers": [
+          {
+            "text": "Cape Town",
+            "correct": true
+          },
+          {
+            "text": "Durban",
+            "correct": false
+          },
+          {
+            "text": "Gqeberha",
+            "correct": false
+          },
+          {
+            "text": "East London",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "The Union Buildings are in which city?",
+        "answers": [
+          {
+            "text": "Pretoria",
+            "correct": true
+          },
+          {
+            "text": "Cape Town",
+            "correct": false
+          },
+          {
+            "text": "Bloemfontein",
+            "correct": false
+          },
+          {
+            "text": "Johannesburg",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the holiday on 21 March called?",
+        "answers": [
+          {
+            "text": "Human Rights Day",
+            "correct": true
+          },
+          {
+            "text": "Freedom Day",
+            "correct": false
+          },
+          {
+            "text": "Youth Day",
+            "correct": false
+          },
+          {
+            "text": "Heritage Day",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the nickname of the men's national football team?",
+        "answers": [
+          {
+            "text": "Bafana Bafana",
+            "correct": true
+          },
+          {
+            "text": "Banyana Banyana",
+            "correct": false
+          },
+          {
+            "text": "The Springboks",
+            "correct": false
+          },
+          {
+            "text": "The Proteas",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the nickname of the women's national football team?",
+        "answers": [
+          {
+            "text": "Banyana Banyana",
+            "correct": true
+          },
+          {
+            "text": "Bafana Bafana",
+            "correct": false
+          },
+          {
+            "text": "The Proteas",
+            "correct": false
+          },
+          {
+            "text": "The Springboks",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Kaizer Chiefs are also known as what?",
+        "answers": [
+          {
+            "text": "Amakhosi",
+            "correct": true
+          },
+          {
+            "text": "The Buccaneers",
+            "correct": false
+          },
+          {
+            "text": "The Brazilians",
+            "correct": false
+          },
+          {
+            "text": "Matsatsantsa",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Orlando Pirates are also known as what?",
+        "answers": [
+          {
+            "text": "The Buccaneers",
+            "correct": true
+          },
+          {
+            "text": "Amakhosi",
+            "correct": false
+          },
+          {
+            "text": "The Brazilians",
+            "correct": false
+          },
+          {
+            "text": "The Glamour Boys",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Johannesburg is in which province?",
+        "answers": [
+          {
+            "text": "Gauteng",
+            "correct": true
+          },
+          {
+            "text": "Limpopo",
+            "correct": false
+          },
+          {
+            "text": "Mpumalanga",
+            "correct": false
+          },
+          {
+            "text": "North West",
+            "correct": false
+          }
+        ],
+        "difficulty": "easy"
+      },
+      {
+        "question": "Which political party did Nelson Mandela lead?",
+        "answers": [
+          {
+            "text": "The African National Congress",
+            "correct": true
+          },
+          {
+            "text": "The DA",
+            "correct": false
+          },
+          {
+            "text": "The PAC",
+            "correct": false
+          },
+          {
+            "text": "The IFP",
             "correct": false
           }
         ],
@@ -4243,6 +7234,292 @@ const sections = [
         "difficulty": "medium"
       },
       {
+        "question": "Who captained the Springboks to the 2019 Rugby World Cup?",
+        "answers": [
+          {
+            "text": "Siya Kolisi",
+            "correct": true
+          },
+          {
+            "text": "François Pienaar",
+            "correct": false
+          },
+          {
+            "text": "John Smit",
+            "correct": false
+          },
+          {
+            "text": "Schalk Burger",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "The Soweto Derby is between Orlando Pirates and which club?",
+        "answers": [
+          {
+            "text": "Kaizer Chiefs",
+            "correct": true
+          },
+          {
+            "text": "Mamelodi Sundowns",
+            "correct": false
+          },
+          {
+            "text": "SuperSport United",
+            "correct": false
+          },
+          {
+            "text": "Stellenbosch",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "District 9 is set in which city?",
+        "answers": [
+          {
+            "text": "Johannesburg",
+            "correct": true
+          },
+          {
+            "text": "Cape Town",
+            "correct": false
+          },
+          {
+            "text": "Lagos",
+            "correct": false
+          },
+          {
+            "text": "Nairobi",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Invictus tells the story of which team?",
+        "answers": [
+          {
+            "text": "The Springboks",
+            "correct": true
+          },
+          {
+            "text": "Bafana Bafana",
+            "correct": false
+          },
+          {
+            "text": "The Proteas",
+            "correct": false
+          },
+          {
+            "text": "Kaizer Chiefs",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Which Oscar-winning film follows a young man in Soweto?",
+        "answers": [
+          {
+            "text": "Tsotsi",
+            "correct": true
+          },
+          {
+            "text": "District 9",
+            "correct": false
+          },
+          {
+            "text": "Invictus",
+            "correct": false
+          },
+          {
+            "text": "Sarafina!",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Trevor Noah hosted which American show?",
+        "answers": [
+          {
+            "text": "The Daily Show",
+            "correct": true
+          },
+          {
+            "text": "Saturday Night Live",
+            "correct": false
+          },
+          {
+            "text": "The Tonight Show",
+            "correct": false
+          },
+          {
+            "text": "Late Night",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Ladysmith Black Mambazo appeared on which Paul Simon album?",
+        "answers": [
+          {
+            "text": "Graceland",
+            "correct": true
+          },
+          {
+            "text": "Thriller",
+            "correct": false
+          },
+          {
+            "text": "Abbey Road",
+            "correct": false
+          },
+          {
+            "text": "Lemonade",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Mandoza’s hit Nkalakatha is an example of which style?",
+        "answers": [
+          {
+            "text": "Kwaito",
+            "correct": true
+          },
+          {
+            "text": "Amapiano",
+            "correct": false
+          },
+          {
+            "text": "Jazz",
+            "correct": false
+          },
+          {
+            "text": "Reggae",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Gqom began in which city?",
+        "answers": [
+          {
+            "text": "Durban",
+            "correct": true
+          },
+          {
+            "text": "Cape Town",
+            "correct": false
+          },
+          {
+            "text": "Johannesburg",
+            "correct": false
+          },
+          {
+            "text": "Pretoria",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "On which date in 1976 did the Soweto uprising begin?",
+        "answers": [
+          {
+            "text": "16 June",
+            "correct": true
+          },
+          {
+            "text": "21 March",
+            "correct": false
+          },
+          {
+            "text": "27 April",
+            "correct": false
+          },
+          {
+            "text": "9 August",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who chaired the Truth and Reconciliation Commission?",
+        "answers": [
+          {
+            "text": "Desmond Tutu",
+            "correct": true
+          },
+          {
+            "text": "Nelson Mandela",
+            "correct": false
+          },
+          {
+            "text": "F.W. de Klerk",
+            "correct": false
+          },
+          {
+            "text": "Thabo Mbeki",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Who became president after Nelson Mandela?",
+        "answers": [
+          {
+            "text": "Thabo Mbeki",
+            "correct": true
+          },
+          {
+            "text": "Jacob Zuma",
+            "correct": false
+          },
+          {
+            "text": "Cyril Ramaphosa",
+            "correct": false
+          },
+          {
+            "text": "Kgalema Motlanthe",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
+        "question": "Lucas Radebe spent most of his European career at which club?",
+        "answers": [
+          {
+            "text": "Leeds United",
+            "correct": true
+          },
+          {
+            "text": "Arsenal",
+            "correct": false
+          },
+          {
+            "text": "Chelsea",
+            "correct": false
+          },
+          {
+            "text": "Manchester City",
+            "correct": false
+          }
+        ],
+        "difficulty": "medium"
+      },
+      {
         "question": "Which city is the judicial capital?",
         "answers": [
           {
@@ -4397,94 +7674,6 @@ const sections = [
         "difficulty": "hard"
       },
       {
-        "question": "The Springboks play which sport?",
-        "answers": [
-          {
-            "text": "Rugby union",
-            "correct": true
-          },
-          {
-            "text": "Cricket",
-            "correct": false
-          },
-          {
-            "text": "Football",
-            "correct": false
-          },
-          {
-            "text": "Tennis",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "The Proteas play which sport?",
-        "answers": [
-          {
-            "text": "Cricket",
-            "correct": true
-          },
-          {
-            "text": "Rugby",
-            "correct": false
-          },
-          {
-            "text": "Football",
-            "correct": false
-          },
-          {
-            "text": "Basketball",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Who captained the Springboks to the 2019 Rugby World Cup?",
-        "answers": [
-          {
-            "text": "Siya Kolisi",
-            "correct": true
-          },
-          {
-            "text": "François Pienaar",
-            "correct": false
-          },
-          {
-            "text": "John Smit",
-            "correct": false
-          },
-          {
-            "text": "Schalk Burger",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "The Soweto Derby is between Orlando Pirates and which club?",
-        "answers": [
-          {
-            "text": "Kaizer Chiefs",
-            "correct": true
-          },
-          {
-            "text": "Mamelodi Sundowns",
-            "correct": false
-          },
-          {
-            "text": "SuperSport United",
-            "correct": false
-          },
-          {
-            "text": "Stellenbosch",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
         "question": "Who reached the 2018 Wimbledon men's singles final?",
         "answers": [
           {
@@ -4573,402 +7762,6 @@ const sections = [
         "difficulty": "hard"
       },
       {
-        "question": "District 9 is set in which city?",
-        "answers": [
-          {
-            "text": "Johannesburg",
-            "correct": true
-          },
-          {
-            "text": "Cape Town",
-            "correct": false
-          },
-          {
-            "text": "Lagos",
-            "correct": false
-          },
-          {
-            "text": "Nairobi",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Invictus tells the story of which team?",
-        "answers": [
-          {
-            "text": "The Springboks",
-            "correct": true
-          },
-          {
-            "text": "Bafana Bafana",
-            "correct": false
-          },
-          {
-            "text": "The Proteas",
-            "correct": false
-          },
-          {
-            "text": "Kaizer Chiefs",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Which Oscar-winning film follows a young man in Soweto?",
-        "answers": [
-          {
-            "text": "Tsotsi",
-            "correct": true
-          },
-          {
-            "text": "District 9",
-            "correct": false
-          },
-          {
-            "text": "Invictus",
-            "correct": false
-          },
-          {
-            "text": "Sarafina!",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Trevor Noah hosted which American show?",
-        "answers": [
-          {
-            "text": "The Daily Show",
-            "correct": true
-          },
-          {
-            "text": "Saturday Night Live",
-            "correct": false
-          },
-          {
-            "text": "The Tonight Show",
-            "correct": false
-          },
-          {
-            "text": "Late Night",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Queen Sono stars which actress?",
-        "answers": [
-          {
-            "text": "Pearl Thusi",
-            "correct": true
-          },
-          {
-            "text": "Charlize Theron",
-            "correct": false
-          },
-          {
-            "text": "Nomzamo Mbatha",
-            "correct": false
-          },
-          {
-            "text": "Connie Ferguson",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Sarafina! is set around the student uprising of which year?",
-        "answers": [
-          {
-            "text": "1976",
-            "correct": true
-          },
-          {
-            "text": "1960",
-            "correct": false
-          },
-          {
-            "text": "1994",
-            "correct": false
-          },
-          {
-            "text": "1948",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Who played the Springbok captain in Invictus?",
-        "answers": [
-          {
-            "text": "Matt Damon",
-            "correct": true
-          },
-          {
-            "text": "Morgan Freeman",
-            "correct": false
-          },
-          {
-            "text": "Clint Eastwood",
-            "correct": false
-          },
-          {
-            "text": "Denzel Washington",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "In District 9, what are the aliens nicknamed?",
-        "answers": [
-          {
-            "text": "Prawns",
-            "correct": true
-          },
-          {
-            "text": "Bugs",
-            "correct": false
-          },
-          {
-            "text": "Toads",
-            "correct": false
-          },
-          {
-            "text": "Crickets",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "Tsotsi won the Oscar for Best Foreign Language Film in which year?",
-        "answers": [
-          {
-            "text": "2006",
-            "correct": true
-          },
-          {
-            "text": "2004",
-            "correct": false
-          },
-          {
-            "text": "2009",
-            "correct": false
-          },
-          {
-            "text": "2013",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "The drama Uzalo is set in which Durban township?",
-        "answers": [
-          {
-            "text": "KwaMashu",
-            "correct": true
-          },
-          {
-            "text": "Soweto",
-            "correct": false
-          },
-          {
-            "text": "Khayelitsha",
-            "correct": false
-          },
-          {
-            "text": "Alexandra",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "Who played the title role in Tsotsi?",
-        "answers": [
-          {
-            "text": "Presley Chweneyagae",
-            "correct": true
-          },
-          {
-            "text": "John Kani",
-            "correct": false
-          },
-          {
-            "text": "Terry Pheto",
-            "correct": false
-          },
-          {
-            "text": "Atandwa Kani",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "Who had a global hit with Water?",
-        "answers": [
-          {
-            "text": "Tyla",
-            "correct": true
-          },
-          {
-            "text": "Beyoncé",
-            "correct": false
-          },
-          {
-            "text": "Rihanna",
-            "correct": false
-          },
-          {
-            "text": "Adele",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Lucky Dube was best known for which style of music?",
-        "answers": [
-          {
-            "text": "Reggae",
-            "correct": true
-          },
-          {
-            "text": "Opera",
-            "correct": false
-          },
-          {
-            "text": "Kwaito",
-            "correct": false
-          },
-          {
-            "text": "Jazz",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Ladysmith Black Mambazo appeared on which Paul Simon album?",
-        "answers": [
-          {
-            "text": "Graceland",
-            "correct": true
-          },
-          {
-            "text": "Thriller",
-            "correct": false
-          },
-          {
-            "text": "Abbey Road",
-            "correct": false
-          },
-          {
-            "text": "Lemonade",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Yvonne Chaka Chaka is nicknamed the Princess of what?",
-        "answers": [
-          {
-            "text": "Africa",
-            "correct": true
-          },
-          {
-            "text": "Pop",
-            "correct": false
-          },
-          {
-            "text": "Soul",
-            "correct": false
-          },
-          {
-            "text": "Kwaito",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Mandoza’s hit Nkalakatha is an example of which style?",
-        "answers": [
-          {
-            "text": "Kwaito",
-            "correct": true
-          },
-          {
-            "text": "Amapiano",
-            "correct": false
-          },
-          {
-            "text": "Jazz",
-            "correct": false
-          },
-          {
-            "text": "Reggae",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Johnny Clegg later led which band after Juluka?",
-        "answers": [
-          {
-            "text": "Savuka",
-            "correct": true
-          },
-          {
-            "text": "Mango Groove",
-            "correct": false
-          },
-          {
-            "text": "Freshlyground",
-            "correct": false
-          },
-          {
-            "text": "Ladysmith Black Mambazo",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Gqom began in which city?",
-        "answers": [
-          {
-            "text": "Durban",
-            "correct": true
-          },
-          {
-            "text": "Cape Town",
-            "correct": false
-          },
-          {
-            "text": "Johannesburg",
-            "correct": false
-          },
-          {
-            "text": "Pretoria",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
         "question": "Hugh Masekela had a 1968 hit with which instrumental?",
         "answers": [
           {
@@ -5013,424 +7806,6 @@ const sections = [
         "difficulty": "hard"
       },
       {
-        "question": "Abdullah Ibrahim was previously known by which name?",
-        "answers": [
-          {
-            "text": "Dollar Brand",
-            "correct": true
-          },
-          {
-            "text": "Hugh Masekela",
-            "correct": false
-          },
-          {
-            "text": "Jonathan Butler",
-            "correct": false
-          },
-          {
-            "text": "Kippie Moeketsi",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "Miriam Makeba’s Click Song is known in Xhosa as what?",
-        "answers": [
-          {
-            "text": "Qongqothwane",
-            "correct": true
-          },
-          {
-            "text": "Pata Pata",
-            "correct": false
-          },
-          {
-            "text": "Umqombothi",
-            "correct": false
-          },
-          {
-            "text": "Nkalakatha",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "Umqombothi was a hit for which singer?",
-        "answers": [
-          {
-            "text": "Yvonne Chaka Chaka",
-            "correct": true
-          },
-          {
-            "text": "Brenda Fassie",
-            "correct": false
-          },
-          {
-            "text": "Miriam Makeba",
-            "correct": false
-          },
-          {
-            "text": "Margaret Singana",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "Prisoner is a famous album by which artist?",
-        "answers": [
-          {
-            "text": "Lucky Dube",
-            "correct": true
-          },
-          {
-            "text": "Hugh Masekela",
-            "correct": false
-          },
-          {
-            "text": "Johnny Clegg",
-            "correct": false
-          },
-          {
-            "text": "Mandoza",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "Nelson Mandela became president in which year?",
-        "answers": [
-          {
-            "text": "1994",
-            "correct": true
-          },
-          {
-            "text": "1990",
-            "correct": false
-          },
-          {
-            "text": "1984",
-            "correct": false
-          },
-          {
-            "text": "2000",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Freedom Day is on which date?",
-        "answers": [
-          {
-            "text": "27 April",
-            "correct": true
-          },
-          {
-            "text": "16 June",
-            "correct": false
-          },
-          {
-            "text": "21 March",
-            "correct": false
-          },
-          {
-            "text": "24 September",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Youth Day remembers events in which year?",
-        "answers": [
-          {
-            "text": "1976",
-            "correct": true
-          },
-          {
-            "text": "1960",
-            "correct": false
-          },
-          {
-            "text": "1994",
-            "correct": false
-          },
-          {
-            "text": "1948",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Robben Island lies off the coast of which city?",
-        "answers": [
-          {
-            "text": "Cape Town",
-            "correct": true
-          },
-          {
-            "text": "Durban",
-            "correct": false
-          },
-          {
-            "text": "Gqeberha",
-            "correct": false
-          },
-          {
-            "text": "East London",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "The Union Buildings are in which city?",
-        "answers": [
-          {
-            "text": "Pretoria",
-            "correct": true
-          },
-          {
-            "text": "Cape Town",
-            "correct": false
-          },
-          {
-            "text": "Bloemfontein",
-            "correct": false
-          },
-          {
-            "text": "Johannesburg",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "What is the holiday on 21 March called?",
-        "answers": [
-          {
-            "text": "Human Rights Day",
-            "correct": true
-          },
-          {
-            "text": "Freedom Day",
-            "correct": false
-          },
-          {
-            "text": "Youth Day",
-            "correct": false
-          },
-          {
-            "text": "Heritage Day",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "On which date in 1976 did the Soweto uprising begin?",
-        "answers": [
-          {
-            "text": "16 June",
-            "correct": true
-          },
-          {
-            "text": "21 March",
-            "correct": false
-          },
-          {
-            "text": "27 April",
-            "correct": false
-          },
-          {
-            "text": "9 August",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Who chaired the Truth and Reconciliation Commission?",
-        "answers": [
-          {
-            "text": "Desmond Tutu",
-            "correct": true
-          },
-          {
-            "text": "Nelson Mandela",
-            "correct": false
-          },
-          {
-            "text": "F.W. de Klerk",
-            "correct": false
-          },
-          {
-            "text": "Thabo Mbeki",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Who became president after Nelson Mandela?",
-        "answers": [
-          {
-            "text": "Thabo Mbeki",
-            "correct": true
-          },
-          {
-            "text": "Jacob Zuma",
-            "correct": false
-          },
-          {
-            "text": "Cyril Ramaphosa",
-            "correct": false
-          },
-          {
-            "text": "Kgalema Motlanthe",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "In which year did the National Party come to power?",
-        "answers": [
-          {
-            "text": "1948",
-            "correct": true
-          },
-          {
-            "text": "1910",
-            "correct": false
-          },
-          {
-            "text": "1960",
-            "correct": false
-          },
-          {
-            "text": "1994",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "In which year did the country become a republic?",
-        "answers": [
-          {
-            "text": "1961",
-            "correct": true
-          },
-          {
-            "text": "1910",
-            "correct": false
-          },
-          {
-            "text": "1948",
-            "correct": false
-          },
-          {
-            "text": "1994",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "The 1956 Women’s March went to which buildings?",
-        "answers": [
-          {
-            "text": "The Union Buildings",
-            "correct": true
-          },
-          {
-            "text": "The Castle of Good Hope",
-            "correct": false
-          },
-          {
-            "text": "Tuynhuys",
-            "correct": false
-          },
-          {
-            "text": "Luthuli House",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Nelson Mandela and F.W. de Klerk shared the Nobel Peace Prize in which year?",
-        "answers": [
-          {
-            "text": "1993",
-            "correct": true
-          },
-          {
-            "text": "1960",
-            "correct": false
-          },
-          {
-            "text": "1994",
-            "correct": false
-          },
-          {
-            "text": "1999",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Who led the ANC in exile for many years before 1990?",
-        "answers": [
-          {
-            "text": "Oliver Tambo",
-            "correct": true
-          },
-          {
-            "text": "Walter Sisulu",
-            "correct": false
-          },
-          {
-            "text": "Chris Hani",
-            "correct": false
-          },
-          {
-            "text": "Govan Mbeki",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "The Rivonia Trial sent Nelson Mandela to which prison?",
-        "answers": [
-          {
-            "text": "Robben Island",
-            "correct": true
-          },
-          {
-            "text": "Pollsmoor",
-            "correct": false
-          },
-          {
-            "text": "Constitution Hill",
-            "correct": false
-          },
-          {
-            "text": "Leeuwkop",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
         "question": "Nelson Mandela’s prison number is often remembered as what?",
         "answers": [
           {
@@ -5469,28 +7844,6 @@ const sections = [
           },
           {
             "text": "Umkhonto we Sizwe",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "Chris Hani was assassinated in which year?",
-        "answers": [
-          {
-            "text": "1993",
-            "correct": true
-          },
-          {
-            "text": "1977",
-            "correct": false
-          },
-          {
-            "text": "1985",
-            "correct": false
-          },
-          {
-            "text": "1990",
             "correct": false
           }
         ],
@@ -5541,270 +7894,6 @@ const sections = [
         "difficulty": "hard"
       },
       {
-        "question": "In which year was gold discovered on the Witwatersrand?",
-        "answers": [
-          {
-            "text": "1886",
-            "correct": true
-          },
-          {
-            "text": "1867",
-            "correct": false
-          },
-          {
-            "text": "1910",
-            "correct": false
-          },
-          {
-            "text": "1948",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "Albert Luthuli won the Nobel Peace Prize in which year?",
-        "answers": [
-          {
-            "text": "1960",
-            "correct": true
-          },
-          {
-            "text": "1993",
-            "correct": false
-          },
-          {
-            "text": "1984",
-            "correct": false
-          },
-          {
-            "text": "1913",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "In which year was the Commonwealth rejoined?",
-        "answers": [
-          {
-            "text": "1994",
-            "correct": true
-          },
-          {
-            "text": "1961",
-            "correct": false
-          },
-          {
-            "text": "1990",
-            "correct": false
-          },
-          {
-            "text": "1999",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "The Freedom Charter was adopted at the Congress of the People in which year?",
-        "answers": [
-          {
-            "text": "1955",
-            "correct": true
-          },
-          {
-            "text": "1948",
-            "correct": false
-          },
-          {
-            "text": "1912",
-            "correct": false
-          },
-          {
-            "text": "1960",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "What is the nickname of the men's national football team?",
-        "answers": [
-          {
-            "text": "Bafana Bafana",
-            "correct": true
-          },
-          {
-            "text": "Banyana Banyana",
-            "correct": false
-          },
-          {
-            "text": "The Springboks",
-            "correct": false
-          },
-          {
-            "text": "The Proteas",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "What is the nickname of the women's national football team?",
-        "answers": [
-          {
-            "text": "Banyana Banyana",
-            "correct": true
-          },
-          {
-            "text": "Bafana Bafana",
-            "correct": false
-          },
-          {
-            "text": "The Proteas",
-            "correct": false
-          },
-          {
-            "text": "The Springboks",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Kaizer Chiefs are also known as what?",
-        "answers": [
-          {
-            "text": "Amakhosi",
-            "correct": true
-          },
-          {
-            "text": "The Buccaneers",
-            "correct": false
-          },
-          {
-            "text": "The Brazilians",
-            "correct": false
-          },
-          {
-            "text": "Matsatsantsa",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Orlando Pirates are also known as what?",
-        "answers": [
-          {
-            "text": "The Buccaneers",
-            "correct": true
-          },
-          {
-            "text": "Amakhosi",
-            "correct": false
-          },
-          {
-            "text": "The Brazilians",
-            "correct": false
-          },
-          {
-            "text": "The Glamour Boys",
-            "correct": false
-          }
-        ],
-        "difficulty": "easy"
-      },
-      {
-        "question": "Who scored the opening goal of the 2010 World Cup?",
-        "answers": [
-          {
-            "text": "Siphiwe Tshabalala",
-            "correct": true
-          },
-          {
-            "text": "Katlego Mphela",
-            "correct": false
-          },
-          {
-            "text": "Steven Pienaar",
-            "correct": false
-          },
-          {
-            "text": "Benni McCarthy",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "The 2010 World Cup final was played at which stadium?",
-        "answers": [
-          {
-            "text": "Soccer City",
-            "correct": true
-          },
-          {
-            "text": "Ellis Park",
-            "correct": false
-          },
-          {
-            "text": "Moses Mabhida",
-            "correct": false
-          },
-          {
-            "text": "Cape Town Stadium",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Lucas Radebe spent most of his European career at which club?",
-        "answers": [
-          {
-            "text": "Leeds United",
-            "correct": true
-          },
-          {
-            "text": "Arsenal",
-            "correct": false
-          },
-          {
-            "text": "Chelsea",
-            "correct": false
-          },
-          {
-            "text": "Manchester City",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
-        "question": "Pitso Mosimane won several league titles with which club?",
-        "answers": [
-          {
-            "text": "Mamelodi Sundowns",
-            "correct": true
-          },
-          {
-            "text": "Kaizer Chiefs",
-            "correct": false
-          },
-          {
-            "text": "Orlando Pirates",
-            "correct": false
-          },
-          {
-            "text": "SuperSport United",
-            "correct": false
-          }
-        ],
-        "difficulty": "medium"
-      },
-      {
         "question": "Who coached the side that won the 1996 Africa Cup of Nations?",
         "answers": [
           {
@@ -5843,28 +7932,6 @@ const sections = [
           },
           {
             "text": "Katlego Mphela",
-            "correct": false
-          }
-        ],
-        "difficulty": "hard"
-      },
-      {
-        "question": "In which year was the Africa Cup of Nations won?",
-        "answers": [
-          {
-            "text": "1996",
-            "correct": true
-          },
-          {
-            "text": "1998",
-            "correct": false
-          },
-          {
-            "text": "2010",
-            "correct": false
-          },
-          {
-            "text": "2013",
             "correct": false
           }
         ],

@@ -272,7 +272,6 @@ button.mode-btn[data-mode="hard"]:hover {
   font-weight: 600;
 }
 
-button.section-btn,
 button.section-btn strong {
   color: var(--ink);
 }
@@ -536,7 +535,13 @@ button:hover {
 }
 
 @media (hover: none) and (pointer: coarse) {
-  .answer-btn:not(.correct):not(.incorrect):hover,
+  .answer-btn:not(.correct):not(.incorrect):hover {
+    transform: none;
+    background: #f4f7fb;
+    color: var(--ink);
+    border-color: #e3e9f2;
+  }
+
   button.section-btn:hover,
   button.section-btn:hover strong {
     transform: none;
@@ -544,15 +549,11 @@ button:hover {
     color: var(--ink);
   }
 
-  button.mode-btn:hover {
-    transform: none;
-  }
-
-  .answer-btn:not(.correct):not(.incorrect):hover {
-    border-color: #e3e9f2;
-  }
-
   button.section-btn:hover {
     border-color: var(--accent);
+  }
+
+  button.mode-btn:hover {
+    transform: none;
   }
 }

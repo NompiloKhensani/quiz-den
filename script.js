@@ -37,7 +37,7 @@ let selectedDifficulty = "medium";
 
 retryButton.addEventListener("click", startQuiz);
 sectionsButton.addEventListener("click", showSections);
-backButton.addEventListener("click", showSections);
+backButton.addEventListener("click", goBack);
 
 sections.forEach((section) => {
   const button = document.createElement("button");
@@ -71,6 +71,17 @@ function showSections() {
   clearTimeout(advanceTimer);
   answersDisabled = false;
   showScreen(sectionsScreen);
+}
+
+function goBack() {
+  if (quizScreen.classList.contains("active")) {
+    clearTimeout(advanceTimer);
+    answersDisabled = false;
+    showScreen(modeScreen);
+    return;
+  }
+
+  showSections();
 }
 
 function shuffle(items) {
