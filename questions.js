@@ -2102,7 +2102,7 @@ const sections = [
         "difficulty": "hard"
       },
       {
-        "question": "Tottenham Hotspur Stadium is the home of which club?",
+        "question": "Which club plays its home matches at a stadium built on the site of White Hart Lane?",
         "answers": [
           {
             "text": "Tottenham",
